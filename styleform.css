@@ -1,0 +1,9 @@
+form{
+	position:absolute;
+  background: #bc2c2cb8;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 20px;
+  width: 400px;
+}

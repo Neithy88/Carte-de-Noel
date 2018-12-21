@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Envois la carte de voeux à un ami</title>
+    <link rel="stylesheet" href="styleform.css">
+</head>
+<body>
+
+    <embed src=noel/finale.pdf width=1000 height=600 type='application/pdf'/>
+    <form action="/action_page.php" method="post" class="formulaire">
+        <input type="text" name="fname" placeholder="Nom"><br>
+        <input type="text" name="lname" placeholder="Prénom"><br>
+        <textarea name="message" placeholder="Votre message ici !"></textarea>
+        <input type="email" name="mail" placeholder="Mail du correspondant"><br>
+        <input type="submit" value="Envoyer">
+      </form>  
+</body>
+</html>

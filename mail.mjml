@@ -1,0 +1,33 @@
+
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#C1272D" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://profil.accesscodeschool.fr/assets/img/logo-acs-black.png" width="400px"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="repeat" padding="0 0" text-align="center" vertical-align="top">
+         <mj-column> 
+          <mj-image align="center" alt="Joyeux Noel!" src="https://static.vecteezy.com/system/resources/previews/000/098/040/non_2x/merry-christmas-decorative-lettering-vector.jpg" width="600px" ></mj-image>
+         <mj-image align="center" src="noel/carte.png" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px">Plein de bonheur, de joie et d'amour pour ces fêtes de fin d'années !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#C1272D" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding="10px 25px"><a style="color:#ffffff" href="http://www.mailjet.com"><b>♥ Votre de carte de voeux animée ici ♥</b></a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+      <mj-image align="center" padding="10px 25px" src="noel/logo.png" width="200px"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="11px" line-height="22px" padding="0px 20px">@ Created By Alexandra Moullet</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
